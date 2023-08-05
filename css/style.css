@@ -249,7 +249,7 @@ section{
 }
 .items .item img{
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 .service{
   padding-bottom: 30px;
